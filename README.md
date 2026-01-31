@@ -7,5 +7,5 @@ Este repositório é um **fork** do projeto original da DIO e está sendo utiliz
 Construir e avaliar um modelo de **previsão de estoque** no SageMaker Canvas, documentando
 as etapas, decisões e resultados obtidos ao longo do processo.
 
-## Status
-🚧 Em desenvolvimento
+## 🚧 Status
+Em desenvolvimento
